@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0fe9e36-e555-4ba6-97ff-54862adf3c32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/estudos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/estudos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operadores Lógicos/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores Lógicos/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +49,16 @@
       <updated>1652310235426</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
